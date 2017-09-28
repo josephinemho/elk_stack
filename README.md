@@ -6,6 +6,14 @@
 
 `cd elk_stack/`
 
+## Install the OpenJDK Java environment for Red Hat Enterprise Linux
+`yum install java-1.7.0-openjdk-devel`
+
+`java -version`
+
+### Make sure it is Java 7 or higher
+
+
 ## Install Elasticsearch
 
 `mkdir elasticsearch`
